@@ -1,10 +1,11 @@
 # CreativeMaking_Advanced_visualisation_and_computational_environment
 
-## Name of game : 《Tugging Twisting Tracing》
+# Name of game : 《Tugging Twisting Tracing》
 
-### Game introduction
+## Game introduction
 
-#### Theme： Multiplayer Game, Interactive and playful, Image Generation
+### Theme： Multiplayer Game, Interactive and playful, Image Generation
+
 
 《Tugging Twisting Tracing》is a multiplayer collaborative interactive game which not only provides game experience full of innocence and fun, but also explores a way to record the "trace" of gaming. 
 
@@ -15,11 +16,12 @@ Before each game, there are three ropes entangled with each other. Two members o
 Additionally, the equipment will record the trajectory of players during the game, and generate a unique artistic piece. It is a game that relies on communication and collaboration among team members, and offers a memorable and engaging experience.
 
 
+
 ![图片名称](https://github.com/ZIqinGX/CreativeMaking_Advanced_visualisation_and_computational_environment/blob/main/Generated_pictures_from_playing/artwork3.jpg) 
 
 ## concept construction and prototype
 
-## Game
+## Game Process, also a test
 ![图片名称](https://github.com/ZIqinGX/CreativeMaking_Advanced_visualisation_and_computational_environment/blob/main/Picture_of_process/game_process_record1.png) 
 
 ## Code
