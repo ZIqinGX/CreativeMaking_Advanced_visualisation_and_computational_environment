@@ -4,7 +4,7 @@
 
 ## Game introduction
 
-### Theme： Multiplayer Game, Interactive and playful, Image Generation
+### Theme： Multiplayer Game, Interactive and playful, Image Generation, Immersive environment
 
 
 《Tugging Twisting Tracing》is a multiplayer collaborative interactive game which not only provides game experience full of innocence and fun, but also explores a way to record the "trace" of gaming. 
