@@ -16,8 +16,14 @@ Before each game, there are three ropes entangled with each other. Two members o
 
 Additionally, the equipment will record the trajectory of players during the game, and generate a unique artistic piece. It is a game that relies on communication and collaboration among team members, and offers a memorable and engaging experience.
 
-## Video link :
+## Final Video link :
 https://youtu.be/FU5zQAFQYYw 
+
+
+
+## Developing process introduction
+
+This project has two stages. The first stage is on midterm show and it was cooperated with my teammates. At first, it is a real-time game based on jupyter notebook and it generate pictures according to the color and movement of rope.
 
 
 
