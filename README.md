@@ -30,8 +30,9 @@ This project has two stages. The first stage is on midterm show and it was coope
 ## concept construction and prototype
 
 ## Game Process, also a test
-![图片名称](https://github.com/ZIqinGX/CreativeMaking_Advanced_visualisation_and_computational_environment/blob/main/Game%20process%20photo/game_process_record2resized.png) 
+
 ![图片名称](https://github.com/ZIqinGX/CreativeMaking_Advanced_visualisation_and_computational_environment/blob/main/Game%20process%20photo/game_process_record3resize.png) 
+![图片名称](https://github.com/ZIqinGX/CreativeMaking_Advanced_visualisation_and_computational_environment/blob/main/Game%20process%20photo/game_process_record4resized.png)
 
 ![图片名称](https://github.com/ZIqinGX/CreativeMaking_Advanced_visualisation_and_computational_environment/blob/main/Generated_pictures_from_playing/artwork3resized.png) 
 ## Code
