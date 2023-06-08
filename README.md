@@ -34,11 +34,13 @@ The required equipments include: three rope, camera, projector
 
 ## Developing process introduction
 
-This project has two stages. The first stage is on midterm show and it was cooperated with my teammates. At first, it is a real-time game based on jupyter notebook and it generate pictures according to the color and movement of rope.
+This project has two stages. The first stage is on midterm show and it was cooperated with my teammates. At first, it is a real-time game based on jupyter notebook and it generate pictures according to the color and movement of rope. This game format is able to effectively capture the attention and interest of players, but during the gameplay, I noticed that the atmosphere of the game is not immersive enough. Therefore, I hope to make this game more exciting through technological means. 
 
+Based on the initial game design, the approach I ultimately adopted was to use TouchDesigner to generate interactive audio-visual effects. The sound would evoke intense emotions in players during gameplay, while the resulting visuals would add dynamism and fun to the game. Additionally, this game would feature real-time capture of players' movements, extracting their silhouettes and applying an artistic stylization to them. Finally, all the artistic effects would be showcased using a projector.
 
+## concept construction and prototype from very beginning
 
-## concept construction and prototype
+![图片名称](https://github.com/ZIqinGX/CreativeMaking_Advanced_visualisation_and_computational_environment/blob/main/Process_(concept_and_prototype)/sketch_for_idea.png) 
 
 ## Game Process 1 , also a test
 
