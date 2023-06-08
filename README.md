@@ -14,7 +14,7 @@ This game requires six players to participate. Two players form one team.
 
 Before each game, there are three ropes entangled with each other. Two members of the same team stand on each side, holding one end of the rope. The objective of the game is to be the first team to untangle their rope, while players are allowed to climb, jump, and tangle with players from other teams to impede their progress. 
 
-Additionally, the equipment will record the trajectory of players during the game, and generate a unique artistic piece. It is a game that relies on communication and collaboration among team members, and offers a memorable and engaging experience.
+Additionally, the equipment will record the trace of players during the game, and generate a unique artistic piece. It is a game that relies on communication and collaboration among team members, and offers a memorable and engaging experience.
 
 ## Final Video link(stage2) :
 ## Most important one https://youtu.be/FU5zQAFQYYw 
