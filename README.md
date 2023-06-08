@@ -29,7 +29,7 @@ https://youtu.be/FU5zQAFQYYw
 
 The required equipments include: three rope, camera, projector
 
-![图片名称](https://github.com/ZIqinGX/CreativeMaking_Advanced_visualisation_and_computational_environment/blob/main/Final%20game(process2)%20generated%20artwork/game_figure2.png)
+![图片名称](https://github.com/ZIqinGX/CreativeMaking_Advanced_visualisation_and_computational_environment/blob/main/Equipment/rope.jpg)
 
 ## Developing process introduction
 
