@@ -18,7 +18,8 @@ Additionally, the equipment will record the trajectory of players during the gam
 
 ## Final Video link :
 https://youtu.be/FU5zQAFQYYw 
-![图片名称](https://github.com/ZIqinGX/CreativeMaking_Advanced_visualisation_and_computational_environment/blob/main/Game%20process%20photo/game_process_record3resize.png) 
+
+![图片名称](https://github.com/ZIqinGX/CreativeMaking_Advanced_visualisation_and_computational_environment/blob/main/Final%20stage%20video%20shortcut/cover6.png) 
 ![图片名称](https://github.com/ZIqinGX/CreativeMaking_Advanced_visualisation_and_computational_environment/blob/main/Game%20process%20photo/game_process_record3resize.png) 
 
 ## Developing process introduction
