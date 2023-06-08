@@ -17,7 +17,10 @@ Before each game, there are three ropes entangled with each other. Two members o
 Additionally, the equipment will record the trajectory of players during the game, and generate a unique artistic piece. It is a game that relies on communication and collaboration among team members, and offers a memorable and engaging experience.
 
 ## Final Video link(stage2) :
-https://youtu.be/FU5zQAFQYYw 
+## https://youtu.be/FU5zQAFQYYw 
+https://youtu.be/lHAa9WGkMYY
+https://www.youtube.com/watch?v=nuLy1C49NvA
+https://www.youtube.com/watch?v=A3g7tN-Xsis
 
 ![图片名称](https://github.com/ZIqinGX/CreativeMaking_Advanced_visualisation_and_computational_environment/blob/main/Final%20stage%20video%20shortcut/cover6.png) 
 ![图片名称](https://github.com/ZIqinGX/CreativeMaking_Advanced_visualisation_and_computational_environment/blob/main/Final%20stage%20video%20shortcut/cover7.png) 
