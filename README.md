@@ -16,7 +16,7 @@ Before each game, there are three ropes entangled with each other. Two members o
 
 Additionally, the equipment will record the trajectory of players during the game, and generate a unique artistic piece. It is a game that relies on communication and collaboration among team members, and offers a memorable and engaging experience.
 
-## Final Video link :
+## Final Video link(stage2) :
 https://youtu.be/FU5zQAFQYYw 
 
 ![图片名称](https://github.com/ZIqinGX/CreativeMaking_Advanced_visualisation_and_computational_environment/blob/main/Final%20stage%20video%20shortcut/cover6.png) 
@@ -38,11 +38,11 @@ This project has two stages. The first stage is on midterm show and it was coope
 
 Based on the initial game design, the approach I ultimately adopted was to use TouchDesigner to generate interactive audio-visual effects. The sound would evoke intense emotions in players during gameplay, while the resulting visuals would add dynamism and fun to the game. Additionally, this game would feature real-time capture of players' movements, extracting their silhouettes and applying an artistic stylization to them. Finally, all the artistic effects would be showcased using a projector.
 
-## concept construction and prototype from very beginning
+## Concept construction and prototype from very beginning (Stage 0)
 
 ![图片名称](https://github.com/ZIqinGX/CreativeMaking_Advanced_visualisation_and_computational_environment/blob/main/Process_(concept_and_prototype)/sketch_for_idea.png) 
 
-## Game Process 1 , also a test
+## Game Process 1 , also a test (stage 1)
 
 ![图片名称](https://github.com/ZIqinGX/CreativeMaking_Advanced_visualisation_and_computational_environment/blob/main/Game%20process%20photo/game_process_record3resize.png) 
 ![图片名称](https://github.com/ZIqinGX/CreativeMaking_Advanced_visualisation_and_computational_environment/blob/main/Game%20process%20photo/game_process_record4resized.png)
@@ -53,9 +53,13 @@ Based on the initial game design, the approach I ultimately adopted was to use T
 ![图片名称](https://github.com/ZIqinGX/CreativeMaking_Advanced_visualisation_and_computational_environment/blob/main/Generated_pictures_from_playing/artwork2resized.png) 
 
 
-## Code
-See here: https://github.com/ZIqinGX/CreativeMaking_Advanced_visualisation_and_computational_environment/tree/main/code_for_realisation
+## Code and Touchdesigner
+See here: 
+https://github.com/ZIqinGX/CreativeMaking_Advanced_visualisation_and_computational_environment/tree/main/code_for_realisation
 
+https://github.com/ZIqinGX/CreativeMaking_Advanced_visualisation_and_computational_environment/blob/main/Original%20work(Touchdesigner)/Touchdesigner_map.png
+
+https://github.com/ZIqinGX/CreativeMaking_Advanced_visualisation_and_computational_environment/blob/main/Original%20work(Touchdesigner)/Finalwork_of_term3.41.toe
 
 ## Development
 
