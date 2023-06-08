@@ -68,4 +68,13 @@ https://github.com/ZIqinGX/CreativeMaking_Advanced_visualisation_and_computation
 
 https://github.com/ZIqinGX/CreativeMaking_Advanced_visualisation_and_computational_environment/blob/main/Original%20work(Touchdesigner)/Finalwork_of_term3.41.toe
 
+## Final stage (stage 2)
+
+![图片名称](https://github.com/ZIqinGX/CreativeMaking_Advanced_visualisation_and_computational_environment/blob/main/Final%20stage%20video%20shortcut/cover1.png) 
+
+![图片名称](https://github.com/ZIqinGX/CreativeMaking_Advanced_visualisation_and_computational_environment/blob/main/Final%20stage%20video%20shortcut/cover3.png) 
+
+
+
+
 
