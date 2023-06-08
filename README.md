@@ -21,6 +21,11 @@ https://youtu.be/FU5zQAFQYYw
 
 ![图片名称](https://github.com/ZIqinGX/CreativeMaking_Advanced_visualisation_and_computational_environment/blob/main/Final%20stage%20video%20shortcut/cover6.png) 
 ![图片名称](https://github.com/ZIqinGX/CreativeMaking_Advanced_visualisation_and_computational_environment/blob/main/Final%20stage%20video%20shortcut/cover7.png) 
+![图片名称](https://github.com/ZIqinGX/CreativeMaking_Advanced_visualisation_and_computational_environment/blob/main/Final%20game(process2)%20generated%20artwork/game_figure5.png)
+![图片名称](https://github.com/ZIqinGX/CreativeMaking_Advanced_visualisation_and_computational_environment/blob/main/Final%20game(process2)%20generated%20artwork/game_figure7.png)
+![图片名称](https://github.com/ZIqinGX/CreativeMaking_Advanced_visualisation_and_computational_environment/blob/main/Final%20game(process2)%20generated%20artwork/game_figure2.png)
+
+
 
 ## Developing process introduction
 
